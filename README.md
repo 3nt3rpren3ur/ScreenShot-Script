@@ -13,7 +13,7 @@ We can make it into a **complete malware** by adding:
   
 Code Credits **[likhith1542](https://github.com/likhith1542)** and **[ritvik-pa](https://github.com/ritvik-pa)**
 
-How to use this script :confused: :confused:?
+# How to use this script :confused: :confused:?
   * Download and Install python [link](https://www.python.org/downloads/)
   * Install required packages and libraries
      * Email
